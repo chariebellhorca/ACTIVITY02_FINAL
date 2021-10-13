@@ -1,0 +1,26 @@
+* {
+    background: linear-gradient(rgba(105,255,255,0.75),rgba(105.255.255.075))
+}
+#hero h1 {
+    font-size: 5em;
+}
+
+section h2 {
+    font-size: 3.5em;
+}
+
+section h3{
+    font-size: 1.5em;
+}
+section {
+    height: 100vh;
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

@@ -1,0 +1,11 @@
+#about {
+    background: linear-gradient(rgba(105,255,255,0.75),rgba(105.255.255.075));
+    height: 200vh;
+}
+section h2 {
+    font-size: 3.5em;
+}
+section{
+    padding-top: 50px;
+    text-align: center;
+}
